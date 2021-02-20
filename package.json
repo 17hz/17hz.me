@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "yarn serve",
+    "serve": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
